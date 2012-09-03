@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/jjsoftware/mavenappview/Bundle.p
+ roperties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20120903
+OpenIDE-Module-Build-Version: 201209030937
+OpenIDE-Module: com.jjsoftware.mavenApp.view
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Display-Category: com.jjsoftware
+OpenIDE-Module-Name: mavenApp-view
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/org.netbeans.external/javax.persistence-2.0.3-RELEAS
+ E72.jar
+Maven-Class-Path: org.netbeans.external:javax.persistence-2.0.3:RELEAS
+ E72
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1, org.openide.windows > 6.55.1, org.openide.util > 8.25.1
+ , org.openide.util.lookup > 8.15.1, org.openide.awt > 7.46.1, org.net
+ beans.modules.settings/1 > 1.35.1, com.jjsoftware.mavenApp.dbaccess >
+  1.0
+

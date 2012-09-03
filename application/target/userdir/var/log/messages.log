@@ -1,0 +1,101 @@
+-------------------------------------------------------------------------------
+>Log Session: Monday, September 3, 2012 2:02:09 PM CEST
+>System Info: 
+  Product Version         = mavenApp 201207171143
+  Operating System        = Windows 7 version 6.1 running on x86
+  Java; VM; Vendor        = 1.7.0_01; Java HotSpot(TM) Server VM 21.1-b02; Oracle Corporation
+  Runtime                 = Java(TM) SE Runtime Environment 1.7.0_01-b08
+  Java Home               = C:\Program Files (x86)\Java\jdk1.7.0_01\jre
+  System Locale; Encoding = pl_PL (mavenapp); Cp1250
+  Home Directory          = C:\Users\Damian
+  Current Directory       = C:\Users\Damian\Desktop\git-repo\application\target\mavenapp
+  User Directory          = C:\Users\Damian\Desktop\git-repo\application\target\userdir
+  Cache Directory         = C:\Users\Damian\Desktop\git-repo\application\target\userdir\var\cache
+  Installation            = C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\bin
+                            C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\etc
+                            C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\mavenapp
+                            C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform
+                            C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform
+  Boot & Ext. Classpath   = C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\classes;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\dnsns.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\localedata.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\sunec.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\sunjce_provider.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\sunmscapi.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\sunpkcs11.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\jre\lib\ext\zipfs.jar
+  Application Classpath   = C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\boot.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\org-openide-modules.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\org-openide-util-lookup.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\org-openide-util.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\boot_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\boot_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\boot_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\boot_zh_CN.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-modules_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-modules_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\lib\locale\org-openide-util_zh_CN.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\lib\dt.jar;C:\Program Files (x86)\Java\jdk1.7.0_01\lib\tools.jar
+  Startup Classpath       = C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\core.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\org-openide-filesystems.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\core_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\core_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\core_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\core_zh_CN.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\org-openide-filesystems_ja.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\org-openide-filesystems_pt_BR.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\org-openide-filesystems_ru.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform\core\locale\org-openide-filesystems_zh_CN.jar;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\mavenapp\core\locale\core_mavenapp.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.15.1 201207171143]
+	org.openide.util [8.25.1 201207171143]
+	org.openide.modules [7.32.1 201207171143]
+	org.openide.filesystems [7.62.1 201207171143]
+	org.netbeans.api.annotations.common/1 [1.14.1 201207171143]
+	org.openide.awt [7.46.1 201207171143]
+	org.netbeans.api.progress/1 [1.28.1 201207171143]
+	org.openide.dialogs [7.25.1 201207171143]
+	org.openide.nodes [7.28.1 201207171143]
+	org.openide.windows [6.55.1 201207171143]
+	org.netbeans.modules.editor.mimelookup/1 [1.26.1 201207171143]
+	org.openide.text [6.49.1 201207171143]
+	org.netbeans.swing.tabcontrol [1.36.1 201207171143]
+	org.netbeans.swing.outline [1.20.1 201207171143]
+	org.openide.explorer [6.45.1 201207171143]
+	org.openide.actions [6.26.1 201207171143]
+	org.netbeans.modules.queries/1 [1.28.1 201207171143]
+	org.openide.loaders [7.37.1 201207171143]
+	org.openide.io [1.31.1 201207171143]
+	org.netbeans.swing.plaf [1.25.1 201207171143]
+	org.netbeans.spi.quicksearch [1.14.1 201207171143]
+	org.netbeans.bootstrap/1 [2.52.1 201207171143]
+	org.netbeans.core.startup/1 [1.40.1 201207171143]
+	org.netbeans.modules.settings/1 [1.35.1 201207171143]
+	org.netbeans.modules.sampler [1.1.1 201207171143]
+	org.netbeans.modules.progress.ui [1.20.1 201207171143]
+	org.netbeans.modules.print [7.13.1 201207171143]
+	org.netbeans.modules.keyring [1.11.1 201207171143]
+	org.netbeans.core/2 [3.33.1 201207171143]
+	org.netbeans.modules.options.api/1 [1.26.1 201207171143]
+	org.netbeans.modules.options.keymap [1.19.1 201207171143]
+	org.netbeans.modules.masterfs/2 [2.38.1 201207171143]
+	org.netbeans.libs.jna/1 [1.21.1 201207171143]
+	org.netbeans.modules.masterfs.windows [1.1.1 201207171143]
+	org.netbeans.modules.keyring.impl [1.7.1 201207171143]
+	org.netbeans.modules.favorites/1 [1.29.1 201207171143]
+	org.netbeans.modules.editor.mimelookup.impl/1 [1.18.1 201207171143]
+	org.netbeans.modules.autoupdate.services [1.33.1 201207171143]
+	org.netbeans.core.ui/1 [1.31.1 201207171143]
+	org.netbeans.modules.autoupdate.ui [1.27.1 201207171143]
+	org.netbeans.libs.osgi [1.9.1 201207171143]
+	org.netbeans.libs.felix [2.3.1 201207171143]
+	org.netbeans.core.windows/2 [2.49.1 201207171143]
+	org.netbeans.modules.core.kit [1.16.1 201207171143]
+	org.netbeans.core.output2/1 [1.26.1 201207171143]
+	org.netbeans.core.netigso [1.16.1 201207171143]
+	org.netbeans.core.nativeaccess/1 [1.16.1 201207171143]
+	org.netbeans.core.io.ui/1 [1.16.1 201207171143]
+	com.jjsoftware.mavenApp.dbaccess [1.0 1.0-20120903 201209030937]
+	com.jjsoftware.mavenApp.view [1.0 1.0-20120903 201209030937]
+	com.jjsoftware.mavenApp.edit [1.0 1.0-20120903 201209030937]
+	com.jjsoftware.mavenApp.branding [1.0 1.0-20120903 201209030937]
+Diagnostic information
+Input arguments:
+	-Xms24m
+	-Xmx64m
+	-Dnetbeans.logger.console=true
+	-ea
+	-Dnetbeans.user.dir=C:\Users\Damian\Desktop\git-repo\application
+	-Djdk.home=C:\Program Files (x86)\Java\jdk1.7.0_01
+	-splash:C:\Users\Damian\Desktop\git-repo\application\target\userdir\var\cache\splash.png
+	-Dnetbeans.home=C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform
+	-Dnetbeans.user=C:\Users\Damian\Desktop\git-repo\application\target\userdir
+	-Dnetbeans.default_userdir_root=
+	-XX:+HeapDumpOnOutOfMemoryError
+	-XX:HeapDumpPath=C:\Users\Damian\Desktop\git-repo\application\target\userdir\var\log\heapdump.hprof
+	-Dnetbeans.system_http_proxy=DIRECT
+	-Dsun.awt.keepWorkingSetOnMinimize=true
+	-Dnetbeans.dirs=C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\bin;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\etc;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\mavenapp;C:\Users\Damian\Desktop\git-repo\application\target\mavenapp\platform
+Compiler: HotSpot Tiered Compilers
+Heap memory usage: initial 24,0MB maximum 56,9MB
+Non heap memory usage: initial 18,2MB maximum 112,0MB
+Garbage collector: PS Scavenge (Collections=22 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=5627 total loaded=5627 unloaded 0
+INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 2 147 016 704
+INFO [null]: Total physical memory 2 147 016 704
+WARNING [org.openide.filesystems.Ordering]: Not all children in Menu/Window/ marked with the position attribute: [com-jjsoftware-mavenappedit-EditTopComponent.shadow], but some are: [com-jjsoftware-mavenappview-ViewTopComponent.shadow, org-netbeans-modules-favorites-View.shadow, org-netbeans-core-windows-actions-GlobalPropertiesAction.shadow, Output, SwitchToRecentDocumentAction.shadow, ProgressListAction.shadow, Separator3.instance, ConfigureWindow, org-netbeans-core-windows-actions-ResetWindowsAction.shadow, Separator4.instance, CloseWindowAction.shadow, CloseAllDocumentsAction.shadow, CloseAllButThisAction.shadow, DocumentsAction.shadow]

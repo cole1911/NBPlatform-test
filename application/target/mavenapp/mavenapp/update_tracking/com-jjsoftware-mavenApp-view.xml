@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jjsoftware.mavenApp.view">
+    <module_version install_time="1346667313881" last="true" origin="installer" specification_version="1.0">
+        <file crc="4052654657" name="config/Modules/com-jjsoftware-mavenApp-view.xml"/>
+        <file crc="1644168201" name="modules/com-jjsoftware-mavenApp-view.jar"/>
+        <file crc="4085426780" name="modules/ext/org.netbeans.external/javax.persistence-2.0.3-RELEASE72.jar"/>
+        <file crc="3890923920" name="update_tracking/com-jjsoftware-mavenApp-view.xml"/>
+    </module_version>
+</module>

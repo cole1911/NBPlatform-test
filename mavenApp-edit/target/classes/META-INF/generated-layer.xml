@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="EditTopComponent.settings">
+                <!--com.jjsoftware.mavenappedit.EditTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="com.jjsoftware.mavenappedit.EditTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="EditTopComponent.wstcref">
+                    <!--com.jjsoftware.mavenappedit.EditTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="EditTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="com-jjsoftware-mavenappedit-EditTopComponent.instance">
+                <!--com.jjsoftware.mavenappedit.EditTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="com.jjsoftware.mavenappedit.EditTopComponent"/>
+                <attr name="preferredID" stringvalue="EditTopComponent"/>
+                <attr
+                    bundlevalue="com.jjsoftware.mavenappedit.Bundle#CTL_EditAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="com-jjsoftware-mavenappedit-EditTopComponent.shadow">
+                <!--com.jjsoftware.mavenappedit.EditTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/com-jjsoftware-mavenappedit-EditTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="com_jjsoftware_mavenappedit">
+                <file name="Edit" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--com.jjsoftware.mavenappedit.EditTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//com.jjsoftware.mavenappedit//Edit//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="com">
+                <folder name="jjsoftware">
+                    <folder name="mavenappedit">
+                        <file name="EditTopComponent">
+                            <!--com.jjsoftware.mavenappedit.EditTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//com_jjsoftware_mavenappedit/Edit.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="com_jjsoftware_mavenappedit">
+                <file name="Edit.instance">
+                    <!--com.jjsoftware.mavenappedit.EditTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="com.jjsoftware.mavenappedit.EditTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="com.jjsoftware.mavenappedit.EditTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

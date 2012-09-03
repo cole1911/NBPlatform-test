@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jjsoftware.mavenApp.dbaccess">
+    <module_version install_time="1346667312891" last="true" origin="installer" specification_version="1.0">
+        <file crc="2453391942" name="config/Modules/com-jjsoftware-mavenApp-dbaccess.xml"/>
+        <file crc="2289664282" name="modules/com-jjsoftware-mavenApp-dbaccess.jar"/>
+        <file crc="162557802" name="modules/ext/org.apache.derby/derbyclient-10.9.1.0.jar"/>
+        <file crc="4271448506" name="modules/ext/org.eclipse.persistence/eclipselink-2.3.2.jar"/>
+        <file crc="4085426780" name="modules/ext/org.eclipse.persistence/javax.persistence-2.0.3.jar"/>
+        <file crc="2001959205" name="update_tracking/com-jjsoftware-mavenApp-dbaccess.xml"/>
+    </module_version>
+</module>

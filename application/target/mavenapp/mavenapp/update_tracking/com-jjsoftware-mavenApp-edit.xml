@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jjsoftware.mavenApp.edit">
+    <module_version install_time="1346667317888" last="true" origin="installer" specification_version="1.0">
+        <file crc="2542705162" name="config/Modules/com-jjsoftware-mavenApp-edit.xml"/>
+        <file crc="3771846014" name="modules/com-jjsoftware-mavenApp-edit.jar"/>
+        <file crc="4081512420" name="update_tracking/com-jjsoftware-mavenApp-edit.xml"/>
+    </module_version>
+</module>

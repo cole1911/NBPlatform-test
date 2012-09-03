@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/jjsoftware/mavenapp/Bundle.prope
+ rties
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20120903
+OpenIDE-Module-Build-Version: 201209030937
+OpenIDE-Module: com.jjsoftware.mavenApp.dbaccess
+OpenIDE-Module-Public-Packages: com.jjsoftware.mavenapp.*, javax.persi
+ stence.*
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: com.jjsoftware
+OpenIDE-Module-Name: mavenApp-dbaccess
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+X-Class-Path: ext/org.apache.derby/derbyclient-10.9.1.0.jar ext/org.ec
+ lipse.persistence/eclipselink-2.3.2.jar ext/org.eclipse.persistence/j
+ avax.persistence-2.0.3.jar
+Maven-Class-Path: org.apache.derby:derbyclient:10.9.1.0 org.eclipse.pe
+ rsistence:eclipselink:2.3.2 org.eclipse.persistence:javax.persistence
+ :2.0.3
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.14.1
+

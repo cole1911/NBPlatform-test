@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.jjsoftware.mavenApp.branding">
+    <module_version install_time="1346665061458" last="true" origin="installer" specification_version="1.0">
+        <file crc="3033639724" name="config/Modules/com-jjsoftware-mavenApp-branding.xml"/>
+        <file crc="1164750342" name="core/locale/core_mavenapp.jar"/>
+        <file crc="3832300373" name="modules/com-jjsoftware-mavenApp-branding.jar"/>
+        <file crc="3573317166" name="modules/locale/org-netbeans-core-windows_mavenapp.jar"/>
+        <file crc="856473997" name="modules/locale/org-netbeans-core_mavenapp.jar"/>
+        <file crc="3450068642" name="update_tracking/com-jjsoftware-mavenApp-branding.xml"/>
+    </module_version>
+</module>
